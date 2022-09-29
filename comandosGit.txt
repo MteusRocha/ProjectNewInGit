@@ -32,3 +32,13 @@ git branch 'mais o nome da branch'
 
 <Para mudar de Branch>
 git checkout 'nome da branch'
+
+
+--Atualizar e unir Branchs
+
+<Para capturar as alteracoes feitas por outros colaboradores>
+git pull
+
+<Unir branchs>
+
+git merge 'nome da branch que voce para unir'
