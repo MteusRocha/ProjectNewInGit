@@ -28,3 +28,7 @@ git branch
 
 <criar uma nova branch>
 git branch 'mais o nome da branch'
+
+
+<Para mudar de Branch>
+git checkout 'nome da branch'
