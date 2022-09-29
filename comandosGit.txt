@@ -1,0 +1,12 @@
+Commands git
+
+
+<Para apagar o repositorio atual>
+rm -rf .git/
+
+
+<Configurar um novo usuario>
+git config --global user."email/name" "texte"
+ou
+<Mostra todas as configuracoes do git>
+git config --list
