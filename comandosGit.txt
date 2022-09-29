@@ -10,3 +10,11 @@ git config --global user."email/name" "texte"
 ou
 <Mostra todas as configuracoes do git>
 git config --list
+
+
+<Mostra os Commits executados>
+git reflog
+
+
+<Para voltar a um ponto de versao do git>
+git reset --hard "mais o codigo do commit"
