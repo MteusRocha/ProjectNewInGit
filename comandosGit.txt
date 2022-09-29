@@ -18,3 +18,13 @@ git reflog
 
 <Para voltar a um ponto de versao do git>
 git reset --hard "mais o codigo do commit"
+
+
+
+--BRANCHS
+
+<Para listar as branchs disponiveis>
+git branch
+
+<criar uma nova branch>
+git branch 'mais o nome da branch'
